@@ -1,3 +1,11 @@
+"""
+Author: Dr. S. Satyanarayana
+Title: Turkey Bird
+Functionality: Easy to draw any kind of bird, for instance used the functions for drawing turkey bird with
+coloured feather. User selects the colour of feathers, before drawing the bird. All these are controlled by
+GUI components like Radio buttons etc.,.
+"""
+
 from turtle import Turtle, Screen
 from tkinter import Radiobutton, IntVar, Button
 
@@ -154,11 +162,11 @@ def get_value():
 
 def draw_bird():
     """
-    This function calls other functional components(draws feathers,body,head,eyes and legs) of the turkey-bird.
+    This function calls other functional components(draws feathers,body,head,eyes and legs) of the bird.
     It is invoked by event command of any GUI components like button click.
         Example:
             draw_bird()
-                - It draws all turkey bird components by calling inside functions
+                - It draws all bird components by calling inside functions
     """
     t.clear()
     t.reset()

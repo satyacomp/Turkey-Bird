@@ -8,9 +8,9 @@
 
 Consider the below function calls:
 
-(i) $draw\_head(draw\_color="Black", size=2)$
+(i) `draw_head(draw_color="Black", size=2)`
 
-(ii) $draw\_legs(fill\_color="Blue",pen\_size=2)$
+(ii) `draw_legs(fill_color="Blue",pen_size=2)`
 
 Which of the below statement is **true**?
 
@@ -24,7 +24,7 @@ Which of the below statement is **true**?
 
 ### Answer
 
-(a)
+(c)
 
 ### Tag
 
@@ -158,7 +158,7 @@ Which of the below is/are **true** to handle events?
 
 ### Answer
 
-(a),(c)
+(a) and (c)
 
 ### Tag
 
